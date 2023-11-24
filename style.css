@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: rgb(13, 135, 106);
+  margin-top: 200px;
+  margin-left: 270px;
+}
+
+@font-face {
+  font-family: 'minescript';
+  src: url('Minecraft\ Regular.woff') format('woff');;
+}
+h3{
+  
+  font-family:minescript;
+}
